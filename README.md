@@ -4,7 +4,7 @@ Um projeto simples e interativo que permite ao usuário sortear um número aleat
 
 ## 🔗 Acesse o projeto
 
-Confira o site ao vivo: [Dev Sorteio]()
+Confira o site ao vivo: [Dev Sorteio](https://lucasferreiraprogramador.github.io/DevSorteio---Gerador-de-N-meros-Aleat-rios-com-JavaScript/)
 
 ---
 
