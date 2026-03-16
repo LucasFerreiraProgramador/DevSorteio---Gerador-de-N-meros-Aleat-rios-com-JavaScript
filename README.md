@@ -37,3 +37,10 @@ Confira o site ao vivo: [Dev Sorteio](https://lucasferreiraprogramador.github.io
 <img src="assets/demo-resultado.png" alt="Número sorteado" width="600">
 
 ---
+## 👤 Autor
+- [Lucas Ferreira](https://lucas.ferreiradev.com/)
+- [GitHub](https://github.com/LucasFerreiraProgramador)
+- [LinkedIn](https://www.linkedin.com/in/lucasferreira-dev-front-end/)
+
+## 📄 Licença
+Este projeto foi desenvolvido para fins de estudo e prática de desenvolvimento Front-End.
